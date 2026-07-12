@@ -9,4 +9,7 @@ Day 7 to 9 use DirectSound so I did my best to implement XAudio2 and make a terr
 
 After I finish the days in the handmade hero notes I'll start working on the videos, progress will definitely be slower though.
 
-skipping 12 since i hate the sound stuff
+skipping all audio stuff until i get the motivation to work through the xaudio2 docs and try to match the HH projects
+
+7-12-26
+skipping up until 23, previous tutorials are pretty specific, there are already resources about live editing code in odin. it doesnt look like anything in these tutorials really affects the next ones, but if there is i will come back and do these days too. starting from day 23
