@@ -13,3 +13,6 @@ skipping all audio stuff until i get the motivation to work through the xaudio2 
 
 7-12-26
 skipping up until 23, previous tutorials are pretty specific, there are already resources about live editing code in odin. it doesnt look like anything in these tutorials really affects the next ones, but if there is i will come back and do these days too. starting from day 23
+
+7-16-26
+skipped some parts between 23 and 27, will add things i skipped if needed for future days, refactoring for actual game code no
