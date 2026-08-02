@@ -16,3 +16,6 @@ skipping up until 23, previous tutorials are pretty specific, there are already 
 
 7-16-26
 skipped some parts between 23 and 27, will add things i skipped if needed for future days, refactoring for actual game code no
+
+7-31-26 
+day 34 finally done, used odins mem.arena instead of hh memory stuff, needs no fancy push array or push struct functions
