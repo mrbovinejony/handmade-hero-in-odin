@@ -19,3 +19,6 @@ skipped some parts between 23 and 27, will add things i skipped if needed for fu
 
 7-31-26 
 day 34 finally done, used odins mem.arena instead of hh memory stuff, needs no fancy push array or push struct functions
+
+8-3-26 
+day 37, instead of using the manual bitmap loader i use odins built in stuff, the relevant procs are in main load_bitmap and draw_bitmap. the bitmap struct is now just an ^Image in game_state, need to include core:image and core:image/bmp
